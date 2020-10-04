@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M_BUILDAPP</string>
+    <string name="high">HAUTE</string>
+    <string name="mid">MOYENNE</string>
+    <string name="low">BASSE</string>
+    <string name="hierarchy">Priorité</string>
+    <string name="add">Ajouter</string>
+    <string name="menu_action_1">Action 1</string>
+
+</resources>
